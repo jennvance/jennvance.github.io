@@ -1,19 +1,28 @@
-## Welcome to GitHub Pages
+## Jennifer Vance
+### Technical Writer
 
-You can use the [editor on GitHub](https://github.com/jennvance/jennvance.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I was a developer on and off for seven years before learning that writing technical documentation can be a full time job unto itself. (Why "on and off"? Because I kept quitting my jobs to travel and write bad novels. As a career move I do not recommend this.)
 
-### Markdown
+I like to code, but I like writing even more. My favorite thing about coding is there are infinite new concepts to learn. Technical writing shares the same benefit, perhaps to an even greater extent because a technical writer can write across multiple disciplines.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I made my first open source contributions to documentation a few weeks back as part of HacktoberFest. I enjoyed the collaboration and the opportunity to explore new applications and technologies. At the moment I'm looking for more projects to contribute to.
 
-```markdown
-Syntax highlighted code block
+Though I’m only now entering the field of Technical Writing in an official capacity, I did contribute some documentation to various projects as part of my role as developer. Furthermore, I trained new developers while working at several previous jobs, which required an ability to articulate technical concepts verbally.
 
-# Header 1
-## Header 2
-### Header 3
+My obsession with writing shows up in my personal projects. To teach myself new technologies, I've built a platform to connect indie authors with beta readers and a word count tracking app where writers can track their word counts, earn badges, and follow other writers.
+
+Recently, a feature-length screenplay I wrote was a finalist in the Virginia Screenwriting Competition. I mention this because I believe screenwriting and technical writing have much in common: both require the writer to write concisely, convey a lot of meaning using limited words, and adhere to a logical structure.
+
+## Where I'm Headed
+I'd like to write for a technical audience in the fields of code/API documentation, devOps, and InfoSec. I seek challenging, stimulating work and the opportunity to grow both technically and as a technical communicator.
+
+## Resume
+Coming soon.
+
+## Portfolio
+I wrote some documentation to help technical writers become comfortable with technical concepts. You can view the guides [here](https://github.com/jennvance/bash-commands).
 
 - Bulleted
 - List
