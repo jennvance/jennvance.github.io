@@ -18,11 +18,11 @@ My obsession with writing shows up in my personal projects. To teach myself new 
 
 Recently, a feature-length screenplay I wrote was a finalist in the Virginia Screenwriting Competition. I mention this because I believe screenwriting and technical writing have much in common: both require the writer to write concisely, convey a lot of meaning using limited words, and adhere to a logical structure.
 
-## Resume
-Coming soon.
-
 ## Portfolio
 I wrote some documentation to help technical writers become comfortable with technical concepts. You can view the guides [here](https://github.com/jennvance/bash-commands).
+
+## Resume
+Coming soon.
 
 - Bulleted
 - List
