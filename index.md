@@ -1,7 +1,9 @@
-## Jennifer Vance
+# Jennifer Vance
 ### Technical Writer
 
-## About Me
+## What I Do As A Technical Writer
+
+## Bio
 
 I was a developer on and off for seven years before learning that writing technical documentation can be a full time job unto itself. (Why "on and off"? Because I kept quitting my jobs to travel and write bad novels. As a career move I do not recommend this.)
 
