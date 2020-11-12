@@ -2,6 +2,7 @@
 **Technical Writer**
 
 ## What I Do As A Technical Writer
+I write for a technical audience in the fields of code/API documentation, devOps, and InfoSec. I seek challenging, stimulating work and the opportunity to grow both technically and as a technical communicator.
 
 ## Bio
 
@@ -16,9 +17,6 @@ Though I’m only now entering the field of Technical Writing in an official cap
 My obsession with writing shows up in my personal projects. To teach myself new technologies, I've built a platform to connect indie authors with beta readers and a word count tracking app where writers can track their word counts, earn badges, and follow other writers.
 
 Recently, a feature-length screenplay I wrote was a finalist in the Virginia Screenwriting Competition. I mention this because I believe screenwriting and technical writing have much in common: both require the writer to write concisely, convey a lot of meaning using limited words, and adhere to a logical structure.
-
-## Where I'm Headed
-I'd like to write for a technical audience in the fields of code/API documentation, devOps, and InfoSec. I seek challenging, stimulating work and the opportunity to grow both technically and as a technical communicator.
 
 ## Resume
 Coming soon.
