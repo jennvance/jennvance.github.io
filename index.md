@@ -1,4 +1,5 @@
-# Jennifer Vance ### Technical Writer
+# Jennifer Vance 
+**Technical Writer**
 
 ## What I Do As A Technical Writer
 
